@@ -81,12 +81,12 @@ button {
     font-size: 16px;
     line-height: 1.5 ;
     letter-spacing: 0.04em ;
-    color: #ffffff;
+    
     cursor: pointer;
 }
 button:hover{
     background-color:#404bbf ;
-}
+}  color:: #ffffff ;
 button:focus{
     background-color: #404bbf ;
 }
