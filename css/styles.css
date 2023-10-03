@@ -19,6 +19,7 @@
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
 .hover{
   color: #2e2f42  ;
 }
@@ -32,9 +33,17 @@ letter-spacing: 0.02em;
 color:#2e2f42;
 
 }
-.header-link:hover,.header-link:focus{
+.header-link{
+   color:#2e2f42 ; 
+}
+.header-link:hover{
+color:#404bbf ;
+}
 
-    color:#2e2f42;
+.header-link:focus{
+color:#404bbf;
+    
+
 }
 .address{
 font-style: normal;
